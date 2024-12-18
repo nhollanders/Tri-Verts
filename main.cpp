@@ -84,5 +84,7 @@ int main()
 
     displayTriangle(number);
 
+    system("pause");
+
     return 0;
 }
